@@ -1,0 +1,15 @@
+.form-input{
+    outline: none;
+    display: block;
+    box-sizing: border-box;
+    padding: 20px;
+    border: 1px solid red;
+    border-radius: 20px;
+    color: darkred;
+    margin-top: 20px;
+    width: 300px;
+}
+.btn-register{
+    margin-top: 30px;
+    display: inline-block;
+}

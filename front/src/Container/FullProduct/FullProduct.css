@@ -1,0 +1,7 @@
+.full-box{
+    display: flex;
+    align-items: center;
+}
+.full-inside{
+    margin-right: 30px;
+}

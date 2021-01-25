@@ -1,0 +1,13 @@
+.input-add{
+    display: block;
+    outline: none;
+    padding: 20px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    border: 1px solid red;
+    background: white;
+    margin-bottom: 20px;
+}
+.input-add-form{
+    width: 500px;
+}
